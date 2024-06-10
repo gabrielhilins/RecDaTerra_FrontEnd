@@ -243,7 +243,7 @@ function Home() {
             <Divider borderWidth={'1px'} />
             <CardFooter flexDirection={'column'}>
               <Box m={'5px'} textAlign={'center'}>
-                <Link as={RouterLink} to="/visualizaprodutor" display={'flex'} flexDirection={'row'} justifyContent={'center'} alignItems={'center'}>
+                <Link as={RouterLink} to="/vizualizaprodutor" display={'flex'} flexDirection={'row'} justifyContent={'center'} alignItems={'center'}>
                   <ExternalLinkIcon />
                   <Text pl={'5px'}>Ver página do produtor</Text>
                 </Link>
